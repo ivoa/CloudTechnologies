@@ -1,3 +1,5 @@
+[![PDF-Preview](https://img.shields.io/badge/Preview-PDF-blue)](../../releases/download/auto-pdf-preview/CloudTechnologies-draft.pdf)
+
 An IVOA Note to explore common patterns in the way that we use
 'cloud technologies' and to develop best practice advice
 that will foster interoperability between different platforms.
